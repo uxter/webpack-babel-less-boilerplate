@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Main Page",
+    "filename": "index.html",
+    "template": "templates/index.ejs",
+    "favicon": "styles/favicon.ico",
+    "styles": [
+      "/assets/app.css"
+    ],
+    "scripts": [
+      "/assets/app.js"
+    ]
+  }
+]
